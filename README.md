@@ -3,8 +3,8 @@
 ## About
 An attempt to implement simple Reinforcement learning algorithms with explainations:
   * [Q-Table](#Q-Table)
-  * Policy Gradients
-  * Deep Q-Networks <br>
+  * [Policy Gradients](#Policy gradient)
+  * [Deep Q-Networks](#DQN) <br>
    
 ## Results
 ### <u> Q-Table results </u>
