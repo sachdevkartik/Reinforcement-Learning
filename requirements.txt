@@ -1,0 +1,8 @@
+Pathlib2>=2.3.5
+numpy>=1.19.5
+pandas>=1.2.0
+matplotlib>=3.3.2
+seaborn>=0.11.1
+tqdm>=4.55.1
+gym>=0.18.0
+pytorch>=1.7.1
