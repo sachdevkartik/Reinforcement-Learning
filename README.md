@@ -1,7 +1,7 @@
 <h2 align="center">  Implementations of Reinforcement Learning algorithms </h2>
 
 ## About
-  * An attempt to implement simple Reinforcement learning algorithms with explainations:
+An attempt to implement simple Reinforcement learning algorithms with explainations:
   * Q-Table
   * Policy Gradients
   * Deep Q-Networks 
@@ -29,7 +29,7 @@
       <summary> Deep Q-Networks training results</summary>
 	<br>
  
- ![alt text]https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/DQN_train.png)
+ ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/DQN_train.png)
         <br>
 
 ## Team members
