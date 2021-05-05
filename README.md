@@ -4,18 +4,18 @@
 An attempt to implement simple Reinforcement learning algorithms with explainations:
   * Q-Table
   * Policy Gradients
-  * Deep Q-Networks 
+  * Deep Q-Networks <br>
 ** _Many more to come_
    
 ## Results
 <details>
       <summary> Q-Table training results </summary>
 	<br>
-#### Training:
+**Training**:
  
  ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_results.png)
 </details>
-####   Q-Table plot:
+**Q-Table plot**:
   ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_plot.png)
   
 <details>
@@ -26,7 +26,8 @@ An attempt to implement simple Reinforcement learning algorithms with explainati
 </details>
 
 <details>
-      <summary> Deep Q-Networks training results</summary>
+	
+### Deep Q-Networks training results
 	<br>
  
  ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/DQN_train.png)
