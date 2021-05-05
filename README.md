@@ -8,15 +8,12 @@ An attempt to implement simple Reinforcement learning algorithms with explainati
 ** _Many more to come_
    
 ## Results
-<details>
-      <summary> Q-Table training results </summary>
-	<br>
-	**Training**:
- 
- ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_results.png)
-</details>
+### Q-Table training results
+**Training**: 
+![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_results.png)
+
 **Q-Table plot**:
-  ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_plot.png)
+![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_plot.png)
   
 <details>
       <summary> Policy gradient training results </summary>
