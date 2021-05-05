@@ -5,7 +5,6 @@ An attempt to implement simple Reinforcement learning algorithms with explainati
   * Q-Table
   * Policy Gradients
   * Deep Q-Networks <br>
-** _Many more to come_
    
 ## Results
 ### <u> Q-Table results </u>
