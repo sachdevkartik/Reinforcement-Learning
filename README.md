@@ -1,2 +1,2 @@
-# Reinforcement-Learning
+# Reinforcement Learning
 Implementations of Reinforcement Learning algorithms
