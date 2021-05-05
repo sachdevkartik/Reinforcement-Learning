@@ -3,7 +3,7 @@
 ## About
 An attempt to implement simple Reinforcement learning algorithms with explainations:
   * [Q-Table](#q-table-results)
-  * [Policy Gradients](#policy-gradient-results)
+  * [Policy Gradients](#Policy-Gradient-Results)
   * [Deep Q-Networks](#deep-q-networks-results) <br>
    
 ## Results
