@@ -11,7 +11,7 @@ An attempt to implement simple Reinforcement learning algorithms with explainati
 <details>
       <summary> Q-Table training results </summary>
 	<br>
-**Training**:
+	**Training**:
  
  ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_results.png)
 </details>
