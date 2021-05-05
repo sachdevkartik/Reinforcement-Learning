@@ -13,7 +13,7 @@ An attempt to implement simple Reinforcement learning algorithms with explainati
 ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_results.png)
 
 - Q-Table plot: <br>
- <img src="https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_plot.png" width="600" height="100">
+ <img src="https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_plot.png" width="550" >
   ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_plot.png)
   
 ### Policy gradient results 
