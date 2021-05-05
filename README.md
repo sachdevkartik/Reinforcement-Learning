@@ -7,7 +7,7 @@ An attempt to implement simple Reinforcement learning algorithms with explainati
   * [Deep Q-Networks](#deep-q-networks-results) <br>
    
 ## Results
-### <u> Q-Table results </u>
+### Q-Table results 
 - Q-Table training: <br>
 
 ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_results.png)
@@ -20,7 +20,6 @@ An attempt to implement simple Reinforcement learning algorithms with explainati
  ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Policy%20gradient_train.png)
 	
 ### Deep Q-Networks results 
-	<br>
  ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/DQN_train.png)
         <br>
 
