@@ -17,18 +17,11 @@ An attempt to implement simple Reinforcement learning algorithms with explainati
 
 ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Q-table_plot.png)
   
-<details>
-      <summary> Policy gradient training results </summary>
-	<br>
- 
+### Policy gradient training results <br>
  ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/Policy%20gradient_train.png)
-</details>
-
-<details>
 	
-### Deep Q-Networks training results
-	<br>
- 
+### Deep Q-Networks training results <br>
+	
  ![alt text](https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/DQN_train.png)
         <br>
 
